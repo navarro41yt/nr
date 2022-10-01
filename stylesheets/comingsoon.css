@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0px;
+}
+
+div{
+    justify-content: center;
+}
+
+.arriba{
+    display: flex;
+    width: 100%;
+
+    margin-top: 10%;
+}
+
+.abajo{
+    display: flex;
+    width: 100%;
+}
+
+.map{
+    margin-top: 50px;
+    display: flex;
+    width: 100%;
+}
